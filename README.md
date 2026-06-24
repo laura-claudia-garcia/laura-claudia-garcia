@@ -5,7 +5,7 @@ I have 8 years of experience crafting and developing beautiful and usable web pr
 
 My day job involves designing and developing marketing websites and business tools for KISSLabs Studios.
 
-My passion projects are more about exploring new tech stacks and creating fun tools.
+My passion projects are more about exploring new tech stacks and creating fun tools to make everyday life easier.
 
 ## Languages
 TypeScript · React · Next.js · Node.js · PostgreSQL · Tailwind CSS · Payload CMS
