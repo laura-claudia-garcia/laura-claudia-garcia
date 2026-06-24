@@ -15,9 +15,4 @@ Interactive Design · Designing and Developing Marketing Websites · AI-assisted
 ## Where I have come from:
 Illustrator, Concept Artist, Graphic Designer, Web Designer. And the most fun side hustles: Personal Trainer, Health Coach, and Pet Sitter.
 
-## What I'm building:
-I am trying to track everything I'm working on — from my Dev Academy projects to personal ideas on my public Projects Board. Feel free to have a look at what's in progress, what's shipped, and what's on my mind.
-
-👉 [Check out my Projects Board]()
-
 📫 lauragarciacreative@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/laura-garcia-creative/) 📍 New Zealand
