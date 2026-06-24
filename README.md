@@ -12,11 +12,11 @@ TypeScript · React · Next.js · Node.js · PostgreSQL · Tailwind CSS
 Interactive Design · Designing and Developing Marketing Websites · AI-assisted workflows · Making complex processes efficient
 
 ## Where I have come from:
-Radiation Therapist, Travel Agent, Application Support (UNIX), Accounts team leader, Town Planner, Sustainability Assessor and of course, the most fun side gigs - dairy farmer, waitress, events management and WOW dresser!
+Illustrator, Graphic Designer, Web Designer. And the most fun side hustles: Personal Trainer, Health Coach, Pet Sitter.
 
 ## What I'm building:
 I am trying to track everything I'm working on — from my Dev Academey projects to personal ideas — on my public Projects Board. Feel free to have a look at what's in progress, what's shipped, and what's on my mind.
 
 👉 Check out my Projects Board
 
-📫 planfortomorrow@outlook.com 🔗 LinkedIn 📍 New Zealand & NSW Australia
+📫 lauragarciacreative@gmail.com 🔗 LinkedIn 📍 New Zealand
