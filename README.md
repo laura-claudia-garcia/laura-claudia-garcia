@@ -1,7 +1,7 @@
 # About me
 Kia ora, I'm Laura :) a graphic designer and web designer who got hooked by the tech world!
 
-I have 8 years of experience crafting and developing beautiful and usable web experiences.
+I have 8 years of experience crafting and developing beautiful and usable web projects.
 
 My day job involves designing and developing marketing websites and business tools for KISSLabs Studios.
 
