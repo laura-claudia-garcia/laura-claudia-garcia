@@ -1,16 +1,22 @@
-## Hi there 👋
+About me
+Hi, I'm Laura — a graphic designer and web designer who got hooked by the tech world!
 
-<!--
-**laura-claudia-garcia/laura-claudia-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've 8 years of experience crafting and developing beautiful and usable web experiences.
 
-Here are some ideas to get you started:
+I'm currently working on developing marketing websites and business tools for KISSLabs Studios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working with:
+TypeScript · React · Next.js · Node.js · PostgreSQL · Tailwind CSS
+
+What I'm interested in:
+Interactive Design · Designing and Developing Marketing Websites · AI-assisted workflows · Making complex processes efficient
+
+Where I have come from:
+Radiation Therapist, Travel Agent, Application Support (UNIX), Accounts team leader, Town Planner, Sustainability Assessor and of course, the most fun side gigs - dairy farmer, waitress, events management and WOW dresser!
+
+What I'm building:
+I am trying to track everything I'm working on — from my Dev Academey projects to personal ideas — on my public Projects Board. Feel free to have a look at what's in progress, what's shipped, and what's on my mind.
+
+👉 Check out my Projects Board
+
+📫 planfortomorrow@outlook.com 🔗 LinkedIn 📍 New Zealand & NSW Australia
