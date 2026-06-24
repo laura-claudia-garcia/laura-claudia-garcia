@@ -1,5 +1,5 @@
 # About me
-Hi, I'm Laura — a graphic designer and web designer who got hooked by the tech world!
+Kia ora, I'm Laura :) a graphic designer and web designer who got hooked by the tech world!
 
 I have 8 years of experience crafting and developing beautiful and usable web experiences.
 
