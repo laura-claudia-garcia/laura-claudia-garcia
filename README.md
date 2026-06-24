@@ -19,4 +19,4 @@ I am trying to track everything I'm working on — from my Dev Academey projects
 
 👉 Check out my Projects Board
 
-📫 lauragarciacreative@gmail.com 🔗 LinkedIn 📍 New Zealand
+📫 lauragarciacreative@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/laura-garcia-creative/) 📍 New Zealand
