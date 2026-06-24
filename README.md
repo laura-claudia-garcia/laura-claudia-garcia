@@ -15,7 +15,7 @@ Interactive Design · Designing and Developing Marketing Websites · AI-assisted
 ### My Background
 Illustrator, Concept Artist, Graphic Designer, Web Designer. And the most fun side hustles: Personal Trainer, Health Coach, and Pet Sitter.
 
-### What I'm building
+### Projects
 I am keeping track of my project on a public board. Feel free to take a look. [project board](https://github.com/users/laura-claudia-garcia/projects/1/views/1)
 
 📫 lauragarciacreative@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/laura-garcia-creative/) 📍 New Zealand
